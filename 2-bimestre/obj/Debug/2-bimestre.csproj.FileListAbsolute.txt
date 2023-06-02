@@ -1,0 +1,11 @@
+C:\Users\2022102020052\source\repos\2-bimestre\2-bimestre\bin\Debug\2-bimestre.exe.config
+C:\Users\2022102020052\source\repos\2-bimestre\2-bimestre\bin\Debug\2-bimestre.exe
+C:\Users\2022102020052\source\repos\2-bimestre\2-bimestre\bin\Debug\2-bimestre.pdb
+C:\Users\2022102020052\source\repos\2-bimestre\2-bimestre\obj\Debug\2-bimestre.csproj.AssemblyReference.cache
+C:\Users\2022102020052\source\repos\2-bimestre\2-bimestre\obj\Debug\2-bimestre.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020052\source\repos\2-bimestre\2-bimestre\obj\Debug\_2_bimestre.Form1.resources
+C:\Users\2022102020052\source\repos\2-bimestre\2-bimestre\obj\Debug\_2_bimestre.Properties.Resources.resources
+C:\Users\2022102020052\source\repos\2-bimestre\2-bimestre\obj\Debug\2-bimestre.csproj.GenerateResource.cache
+C:\Users\2022102020052\source\repos\2-bimestre\2-bimestre\obj\Debug\2-bimestre.csproj.CoreCompileInputs.cache
+C:\Users\2022102020052\source\repos\2-bimestre\2-bimestre\obj\Debug\2-bimestre.exe
+C:\Users\2022102020052\source\repos\2-bimestre\2-bimestre\obj\Debug\2-bimestre.pdb

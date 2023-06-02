@@ -1,0 +1,11 @@
+C:\Users\2022102020052\source\repos\2-bimestre\1atividade\bin\Debug\1atividade.exe.config
+C:\Users\2022102020052\source\repos\2-bimestre\1atividade\bin\Debug\1atividade.exe
+C:\Users\2022102020052\source\repos\2-bimestre\1atividade\bin\Debug\1atividade.pdb
+C:\Users\2022102020052\source\repos\2-bimestre\1atividade\obj\Debug\1atividade.csproj.AssemblyReference.cache
+C:\Users\2022102020052\source\repos\2-bimestre\1atividade\obj\Debug\1atividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020052\source\repos\2-bimestre\1atividade\obj\Debug\_1atividade.Form1.resources
+C:\Users\2022102020052\source\repos\2-bimestre\1atividade\obj\Debug\_1atividade.Properties.Resources.resources
+C:\Users\2022102020052\source\repos\2-bimestre\1atividade\obj\Debug\1atividade.csproj.GenerateResource.cache
+C:\Users\2022102020052\source\repos\2-bimestre\1atividade\obj\Debug\1atividade.csproj.CoreCompileInputs.cache
+C:\Users\2022102020052\source\repos\2-bimestre\1atividade\obj\Debug\1atividade.exe
+C:\Users\2022102020052\source\repos\2-bimestre\1atividade\obj\Debug\1atividade.pdb
