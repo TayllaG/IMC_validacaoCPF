@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Windows.Forms;
+//class statics sempre vão ter metodos e caracteristicas static
 public static class Validacoes
 {
 
+    //metido static
     public static bool ValidaCPF(string cpf)
     {
         cpf = cpf.Replace(".", "");
